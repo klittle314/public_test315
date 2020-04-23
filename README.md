@@ -6,3 +6,6 @@ Some text goes here
 
 ###Commit 2
 'some more text goes here
+
+###Commit 3
+and more tests and text go here
